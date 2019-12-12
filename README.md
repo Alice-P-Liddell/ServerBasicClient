@@ -1,2 +1,2 @@
-# ServerTestClient
-Client for ServerTest
+# ServerBasicClient
+Client for ServerBasic
